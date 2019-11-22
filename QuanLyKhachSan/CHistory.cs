@@ -19,7 +19,7 @@ namespace QuanLyKhachSan
             this.kh = kh;
             this.dp = dp;
         }
-
+        //Demo modification
         public CHistory():this(new CKhachHang(),new CDatPhong())
         {
         }
